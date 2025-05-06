@@ -23,3 +23,19 @@ go.work.sum
 
 # env file
 .env
+
+# Go wasm files
+wasm_exec.js
+
+# Compiler folders
+.vscode
+.idea
+
+# Temporary
+_build
+*~
+*.sw*
+*.DS_Store
+*.log
+/temp/
+*.wasm
